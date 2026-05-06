@@ -56,7 +56,7 @@ I'm a **Senior QA Engineer at Thomson Reuters** based in Toronto, Canada, passio
 ## 🌍 Connect with Me
  
 📬 Open to senior QE infrastructure, QA Architect, platform engineering, and AI quality roles in Canada.  
-Connect: [linkedin.com/in/kanchan-prachwani](https://linkedin.com/in/kanchan-prachwani) · prachwanikanchan1@gmail.com
+Connect: [linkedin.com/in/kanchan-prachwani](https://www.linkedin.com/in/kanchanprachwani/) · prachwanikanchan1@gmail.com
  
 
 ---
